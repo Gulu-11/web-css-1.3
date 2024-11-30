@@ -1,12 +1,95 @@
 h1 {
     text-align: center;
+    font-size: 72px;
 }
 #headText {
     color: #FF8000;
     width: 100%;
     height: 64px;
     text-align: center;
+    font-size: 24px;
 }
 #yellowText {
+    font-size: 40px;
+    width: 681px;
+    height: 48px;
+    color: #D9AE00;
+}
+#firstText {
+    color: #6D81B4;
+    width: 681px;
+    height: 145px;
+    font-size: 24px;
+}
+#image1 {
+    width: 696px;
+    height: 415px;
+}
+#blackholeDiv {
+    width: 1007px;
+    height: 717px;
+    border: 2px  solid black;
+    background-color: #FFCEBE;
+}
+#blackHole {
+    font-size: 40px;
+    color: #F44E50;
+    text-align: center;
+}
+#secondText {
+    color: #8B2B2C;
+    font-size: 20px;
+    width: 681px;
+    height: 72px;
+    text-align: center;
+    padding-left: 165px;
+}
+#section1 {
+    margin-left: 67px;
+}
+#section2 {
+    margin-left: 74px;
+    margin-top: 100px;
+}
+#image2 {
+    width: 879px;
+    height: 415px;
+    padding-left: 72px;
+}
+#section3 {
+    width: 696px;
+    height: 1041px;
+    margin-top: 96px;
+    margin-left: 66px;
     
+}
+#stringTheory {
+    color: #4716E4;
+    font-size: 40px;
+    text-align: right;
+}
+#stringDiv {
+    width: 696px;
+    height: 222px;
+    border: 3px solid #FF5DA3;
+    background-color: #FFC1E3;
+}
+#thirdText {
+    font-size: 24px;
+    color: #616161;
+}
+#ulDiv {
+    width: 696px;
+    height: 272px;
+}
+#titleforUl {
+    color: #414651;
+    font-size: 24px;
+}
+ul {
+    color: #C27512;
+}
+#image3 {
+    width: 696px;
+    height: 415px;
 }
